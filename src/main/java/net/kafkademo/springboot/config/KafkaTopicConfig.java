@@ -14,3 +14,9 @@ public class KafkaTopicConfig {
                 .build();
     }
 }
+
+/*
+Flow of kafka:
++ Kafka config: Add topic name
++ Kafka controller:
+ */
